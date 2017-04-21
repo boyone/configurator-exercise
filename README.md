@@ -103,4 +103,8 @@ For Configurator™, that **tree of objects** _might_ look something like this:
 - Are there any collaborators missing in the tree above?
 - Are there any leaf nodes missing in the tree above?
 - Which 3rd party libraries, if any, do you anticipate needing to integrate with?
-- How would writing tests for nodes in the tree in reverse-order (from the bottom-up), affect the design of our code?
+- How would writing tests for nodes in the tree in reverse-order (from the bottom-up) affect the design of our code?
+
+## TODO
+
+- spike out an actual simple key/val web service on something like firebase that can be regularly purged and used for this exercise
